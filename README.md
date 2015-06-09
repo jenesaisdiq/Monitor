@@ -1,0 +1,1 @@
+_The increasingly inaccurately named Spark Monitor makes it easy to see what your Particle device is doing, but does require some help from the firmware. This library provides the necessary compliance._
